@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Alice in Borderland - Curiosidades</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    </head>
+    <body class="body2">
+      
+      
+        <div class="header"> 
+            <a href="index.html"> Home | </a> <a href="pag.html"> História | </a> </a> <a href="curiosidades.html"> Curiosidades | </a><a href="contato.html"> Nos contate </a>
+        </div>
+        <div class="container2">
+        
+            <div class="conteudo2">
+               
+                <h1>Conheça 8 curiosidades sobre Alice in Borderland</h1>
+				<p>
+                Situado numa desolada e abandonada versão alternativa de Tóquio, Alice no Borderland foi um sucesso instantâneo com os fãs sobre o serviço de streaming.
+A produção de Alice in Borderland foi um grande empreendimento e apresentou uma mistura complicada de cenários de ação ao vivo e efeitos gerados por computador. Mesmo que tudo tenha aparecido na tela, muito da magia do show aconteceu nos bastidores.
+<br>
+                </p>
+            
+                <h2 align="left" style="text-align:">1. Foi um sucesso instantâneo!</h2>
+                <br>
+                <img src="../img/AB05.jpeg" height="400px" width="860px"/><p><div class="minitexto">(image credit: Listas Nerds)</div></p>
+                <p>
+                    A Netflix sabia que tinha um sucesso em suas mãos quase imediatamente após o lançamento do programa. A reação dos fãs à primeira temporada foi tão forte que a plataforma de streaming a renovou para uma segunda temporada  apenas duas semanas após o lançamento dos episódios. Não é incomum que um programa seja renovado rapidamente se for um grande sucesso com os fãs, mas duas semanas é uma reviravolta muito rápida. Embora tenha sido um sucesso, ainda era uma série da Netflix extremamente subestimada . Considerando o fato de que a 1ª temporada cobriu apenas os primeiros trinta capítulos do mangá , a 2ª temporada tem muito material para puxar daqui para frente.
+                </p>
+                
+            
+                <h2>2. Foi filmado como um filme</h2>
+                <br>
+                <img src="../img/AB01.jpg" height="400px" width="860px"/><p><div class="minitexto">(image credit: Listas Nerds)</div></p>
+                <p>Ao contrário da maioria dos programas de televisão que empregam vários diretores ao longo de sua temporada,  Alice in Borderland  contratou Shinsuke Sato para dirigir todos os episódios. A intenção de manter o mesmo diretor durante toda a série era manter um tom visual consistente ao longo de toda a série. Em uma entrevista , o diretor Sato disse: “O que a Netflix me pediu para fazer foi pensar nisso, os oito episódios, como um filme muito longo”, e foi com essa estrutura em mente que o show foi produzido.
+                </p>
+                
+            
+                <h2>3. O mangá Alice in Borderland</h2>
+                <br>
+                <img src="../img/AB02.jpeg" height="400px" width="860px"/><p><div class="minitexto">(image credit: Listas Nerds)</div></p>
+                <p>O mangá Alice in Borderland publicado no Japão, entre 2010 e 2016, conta com arte e roteiro de Haro Aso. Com 18 volumes, o mangá foi serializado nas revistas Shōnen Sunday S e Weekly Shōnen Sunday, da Editora Shogakukan. Com o sucesso da série da Netflix, o mangá foi anunciado em meados de 2022 no Brasil. A versão nacional será publicada pela Editora JBC, a partir de 2023.
+                </p>
+                
+                <h2>4. Um Round 6?</h2>
+                <br>
+                <img src="../img/AB04.jpeg"  height="460px" width="860px"/><p><div class="minitexto">(image credit: Minha Série Favorita)</div></p>
+                <p>Mesmo sem qualquer relação confirmada, antes do sucesso de Round 6, a Netflix já contava com uma outra série nos mesmos moldes em seu catálogo. Apesar do sucesso de Alice in Borderland, ele nunca se aproximou de Round 6. Com histórias parecidas, os jogos com consequências mortais, são os principais pontos de seus respectivos roteiros.
+                </p>
+                
+            
+                <h2>5. As críticas</h2>
+                <br>
+                <img src="../img/AB06.jpeg"  height="490px" width="830px"/><p><div class="minitexto">(image credit: Netflix)</div></p>
+                <p>A primeira temporada da série foi um sucesso além do que a Netflix poderia cogitar. Adaptando mangá de mesmo nome, a série foi considerada um dos grandes hits de 2020, contando até mesmo com a aprovação da crítica. No site Rotten Tomatoes, um dos principais agregadores de críticas do mundo, a primeira temporada da série, conta com aprovação de 91%, um dos mais altos, se comparar com as últimas adaptações de mangás lançadas em 2021 e 2022.
+                </p>
+                
+            
+                <h2>6. A Equipe incluiu um vencedor do oscar</h2>
+                <br>
+                <img src="../img/AB07.jpeg" height="510px" width="830px"/><p><div class="minitexto">(image credit: Geeks In Action)</div></p>
+                <p>A série apresenta algumas criaturas felinas incrivelmente detalhadas, incluindo um tigre que ameaça os heróis. Para alcançar a aparência bela e realista do tigre, a produção empregou uma equipe internacional de animadores, incluindo o animador holandês Erik-Jan De Boer.
+                    De Boer ganhou destaque como animador com seu trabalho no filme  The Life of Pi, que também apresenta um tigre CGI que está na tela durante a maior parte do filme. A supervisão de De Boer trouxe um vencedor do Oscar a bordo, já que o animador holandês ganhou um Oscar por seu trabalho em  Life of Pi . Apesar de ser totalmente gerado por computador, ainda é um dos melhores filmes de animais de todos os tempos</p>
+                
+                <h2>7.Possível inspiração em Alice no País das Maravilhas</h2>
+                <br>
+                <img src="../img/AB03.jpeg" height="365px" width="840px"/><p><div class="minitexto">(image credit: Listas Nerds)</div></p>
+                <p>Se você notar alguma similaridade com a história de Lewis Carroll, é bem provável que esteja certo. Alice in Borderland foi inspirada na primeira história e o nome do protagonista é Arisu, uma tradução para Alice.
+                    Além disso, um dos personagens da série, bastante forte na primeira temporada, se chama "Chapeleiro".</p>
+                
+                <h2>8. Onde assistir Alice in Borderland?</h2>
+                <br>
+                <img src="../img/AB08.jpeg"  height="630px" width="840px"/><p><div class="minitexto">(image credit: Terra)</div></p>
+                <p>A série foi uma das gratas surpresas da Netflix em 2020, renovada para uma segunda temporada, os novos episódios foram lançados em 2022 em seu catálogo. A segunda temporada de Alice in Borderland chegou ao catálogo da Netflix em 22 de dezembro de 2022. Para assistir,<a class="ref" href="https://www.netflix.com/br/title/80200575">clique aqui</a></p>
+            </div>
+         </div>    
+         
+        <footer>
+        Referências
+            <p><a class="ref" href="https://listasnerds.com.br/alice-in-borderland/" target="_blank">Listas Nerds</a></p>
+            <p><a class="ref" href="https://geeksinaction.com.br/index.php/2021/11/23/10-fatos-dos-bastidores-sobre-alice-in-borderland-da-netflix/" target="_blank">Geeks in Action</a></p>
+        </footer>
+    </body>
+</html>

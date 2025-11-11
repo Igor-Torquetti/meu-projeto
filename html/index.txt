@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="../css/home.css"/>
+    </head>
+    <body>
+        
+            <div class="header"> 
+                <a href="index.html"> Home | </a> <a href="index.html"> História | </a> <a href="index.html"> Curiosidades | </a> </a> <a href="index.html"> Nos contate </a>
+            </div>
+
+        
+            
+            <div class="homeimage">  
+                <div class="home"> <h1>Alice in Borderland</h1></div>
+            </div>
+        <div class="container">
+
+                <div class="conteudo">
+                    <h2>Sinopse</h2>
+                    <p>Baseada no mangá homônimo de Haro Aso, Alice in Borderland acompanha Ryohei Arisu 
+                    (Kento Yamazaki), um jovem desempregado que passa boa parte do tempo jogando videogame. Certo dia, ele acorda e 
+                    se depara com uma Tóquio completamente diferente do que está acostumado. Nessa estranha versão da cidade, Arisu 
+                    e seus amigos viram personagens de um perigoso jogo e precisam seguir as regras para sobreviver. Tendo conhecido
+                    Usagi (Tao Tsuchiya), uma garota que se move sozinha na disputa, Arusi decide se juntar a ela para desvendar os
+                    segredos do novo mundo paralelo. Juntos, os dois se aventuram nessa Tóquio distópica e cheia de perigos na 
+                    expectativa de descobrir o que está acontecendo. Enquanto adentram essa aventuram, eles descobrem segredos
+                    impensáveis e percebem que existe muito mais por trás de toda essa bizarra situação. Enquanto navegam por 
+                    esse estranho novo mundo, as situações se tornam cada vez mais extremas e perigosa.</p> </div>
+                
+                
+                <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/WZCxI1qv310" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                <p>><div id="netflix"><a href="https://www.netflix.com/br/title/80200575" target="_blank"><img src="../img/netflix.png"></a></div></p>
+               
+        </div>
+        
+        
+    </body>
+</html>

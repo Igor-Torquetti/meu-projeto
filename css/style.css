@@ -1,0 +1,301 @@
+/* Define o estilo geral para o body */
+body {
+  width: 100%;
+	height: 100%;
+	margin: 0;
+  margin: 0;
+  padding: 0;
+  font-family: Calibri;
+  background-color: black;
+  background-image: url(../img/fundo2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.body2 {
+  width: 100%;
+	height: 100%;
+	margin: 0;
+  margin: 0;
+  padding: 0;
+  font-family: Calibri;
+  background-color: black;
+  background-image: url(../img/fundo3.png);
+  background-repeat: repeat;
+  background-position: center;
+  background-size: auto;
+}
+
+.body3{
+  width: 100%;
+  height: 100vh;
+  background-image: url(../img/fundo4.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+
+.container {
+  margin: 100px;
+  padding: 10px;
+  
+  position: relative;
+  z-index: 0;
+  background-color: #000000;
+}
+.container2 {
+  margin: 100px;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+  background-color: #000000;
+  height: auto;
+  
+}
+
+.container3 {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 6%;
+  width: 100%;
+}
+
+.teste {
+  width: 500px;
+  height: 500px;
+}
+
+/* Define um estilo para a imagem de topo */
+.homeimage {
+  background-image: url('../img/home1.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 540px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1250px;
+  z-index: 1;
+  text-align: center;
+
+}
+
+.home {
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 2rem;
+    font-family: Engravers MT;
+    
+}
+
+/* Define um estilo de classe para o cabeçalho */
+.header {
+  background-color: rgb(0, 0, 0);
+  border: 1px solid gray;
+  border-top-width: 0;
+  border-top-style: none;
+  border-top-color: transparent;
+  border-left-width: 0;
+  border-left-style: none;
+  border-left-color: transparent;
+  border-right-width: 0;
+  border-right-style: none;
+  border-right-color: transparent;
+  color: #000000;
+  height: 55px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+}
+table {
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Define um estilo de classe para o conteúdo principal */
+.conteudo {
+  width: 80%;
+  margin: 270px auto 20px;
+  padding: 200px 10px 10px 10px;
+  color: white;
+  text-align: left;
+
+  
+}
+
+.conteudo2 {
+  width: 80%;
+  color: white;
+  text-align: left;
+  padding: 10px;
+  margin: 90px auto 0px; /* adiciona uma margem superior para compensar a altura do cabeçalho */
+  top: 0; /* ajusta o posicionamento vertical */
+  left: 10%; /* ajusta o posicionamento horizontal */
+
+  
+}
+
+.conteudo3 {
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: Calibri;
+    margin-bottom: 10px;
+    margin-top: 100px;
+    width: 100%;
+    
+    
+
+    
+
+}
+
+
+/* Define um estilo para os links */
+a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 2rem;
+  padding: 10px;
+  border: 10px;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: rgb(255, 255, 255)
+}
+
+.ref {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: medium;
+  padding: 10px;
+  border: 10px;
+  margin: 0;
+  font-family: Calibri;
+}
+
+.video {
+  text-align: center;
+  z-index: 2;
+}
+
+#netflix{
+  text-align: center;
+}
+
+.minitexto {
+  font-size: small;
+  color: gray;
+  text-align: center;
+}
+
+.imagem {
+  text-align: center;
+}
+
+form{
+  background: #fff;
+  max-width: 500px;
+  height: 450px;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+form h1{
+  text-align: center;
+  margin-bottom: 10px;
+  color: #2D5966;
+  font-size: 22pt;
+}
+
+form p{
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+form .input-single{
+  position: relative;
+  margin: 30px 0;
+}
+
+form .input-single label{
+  position: absolute;
+  left: 0;
+  bottom: 5px;
+  cursor: text;
+  transition: all 0.5s;
+  color: #808080;
+}
+
+form .input-single .input{
+  width: 100%;
+  border: 0;
+  border-bottom: 2px solid #808080;
+  padding: 5px;
+  outline: 0;
+  font-size: 16px;
+}
+
+form .input-single .input:focus{
+  border-bottom: 2px solid #2D5966;
+}
+
+form .input-single .input:focus ~ label,
+form .input-single .input:valid ~ label{
+  transform: translateY(-20px);
+  font-size: 12px;
+  color: #2D5966;
+}
+
+.btn{
+  width: 100%;
+  text-align: center;
+}
+
+form input[type=submit]{
+  padding: 10px 40px;
+  border: 0;
+  border-radius: 10px;
+  background-color: #2D5966;
+  color: #fff;
+  font-size: 14pt;
+  cursor: pointer;
+}
+
+.container-principal {
+  min-height: 100vh;
+  position: relative;
+}
+
+footer {
+  margin-top: auto;
+  margin-bottom: relative;
+  height: relative;
+  background-color: rgb(35, 34, 34);
+  color: rgb(255, 255, 255);
+  text-align: left;
+  padding: 20px;
+  width: 100%;
+  padding-right: 0px;
+  clear: both;
+  padding-bottom: relative;
+}
